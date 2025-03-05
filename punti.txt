@@ -1,0 +1,6 @@
+Paolo 4
+Marta 2
+Lucia 1
+Mario 1
+Giuseppe 0
+Munafo 0
